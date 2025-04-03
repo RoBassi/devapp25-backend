@@ -1,3 +1,6 @@
+import Persona from '../model/persona';
+import Genero from '../model/genero';
+
 class personasCRUD {
     private personas: Persona[] = []; // Lista de personas
 
